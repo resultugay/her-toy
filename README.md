@@ -28,6 +28,8 @@ The program requires two datasets that are `GD` and `G`.
 The options `-gd_efile`, `-gd_vfile`, `-g_efile` and `-g_vfile` allow you to pass paths of datasets to the program. 
 These options specify the location of files that contain the edges and vertices of graphs GD and G, respectively.
 Each line in the vertex file describes the vertex id and label, and there is no limitation about the vertex id, as long as it is a number.
+The dataset is large and the toy example is in the following link
+https://www.dropbox.com/sh/f7xcm353nz76kf0/AABygzfrN5YwLT5IgyTabgJIa?dl=0
 
 For example, first 10 lines of `g.v`
 ```
